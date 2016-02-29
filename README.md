@@ -1,2 +1,1 @@
-# the_new_pantry
-GitHub Checkpoint Assignment
+blah blah blah
